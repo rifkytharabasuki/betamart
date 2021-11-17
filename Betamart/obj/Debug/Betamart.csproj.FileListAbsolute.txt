@@ -1,0 +1,22 @@
+E:\SMK TELKOM XII\UKK\Betamart OOP\Betamart\Betamart\bin\Debug\betamart.accdb
+E:\SMK TELKOM XII\UKK\Betamart OOP\Betamart\Betamart\bin\Debug\Betamart.exe.config
+E:\SMK TELKOM XII\UKK\Betamart OOP\Betamart\Betamart\bin\Debug\Betamart.exe
+E:\SMK TELKOM XII\UKK\Betamart OOP\Betamart\Betamart\bin\Debug\Betamart.pdb
+E:\SMK TELKOM XII\UKK\Betamart OOP\Betamart\Betamart\obj\Debug\Betamart.csprojAssemblyReference.cache
+E:\SMK TELKOM XII\UKK\Betamart OOP\Betamart\Betamart\obj\Debug\Betamart.Form1.resources
+E:\SMK TELKOM XII\UKK\Betamart OOP\Betamart\Betamart\obj\Debug\Betamart.Properties.Resources.resources
+E:\SMK TELKOM XII\UKK\Betamart OOP\Betamart\Betamart\obj\Debug\Betamart.csproj.GenerateResource.cache
+E:\SMK TELKOM XII\UKK\Betamart OOP\Betamart\Betamart\obj\Debug\Betamart.csproj.CoreCompileInputs.cache
+E:\SMK TELKOM XII\UKK\Betamart OOP\Betamart\Betamart\obj\Debug\Betamart.exe
+E:\SMK TELKOM XII\UKK\Betamart OOP\Betamart\Betamart\obj\Debug\Betamart.pdb
+D:\Betamart\Betamart\bin\Debug\betamart.accdb
+D:\Betamart\Betamart\bin\Debug\Betamart.exe.config
+D:\Betamart\Betamart\bin\Debug\Betamart.exe
+D:\Betamart\Betamart\bin\Debug\Betamart.pdb
+D:\Betamart\Betamart\obj\Debug\Betamart.csproj.AssemblyReference.cache
+D:\Betamart\Betamart\obj\Debug\Betamart.Form1.resources
+D:\Betamart\Betamart\obj\Debug\Betamart.Properties.Resources.resources
+D:\Betamart\Betamart\obj\Debug\Betamart.csproj.GenerateResource.cache
+D:\Betamart\Betamart\obj\Debug\Betamart.csproj.CoreCompileInputs.cache
+D:\Betamart\Betamart\obj\Debug\Betamart.exe
+D:\Betamart\Betamart\obj\Debug\Betamart.pdb
